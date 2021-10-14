@@ -1,0 +1,2 @@
+* Clipper :)
+? "Hello World"
