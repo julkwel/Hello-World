@@ -1,16 +1,9 @@
 # Hello-World
 
-This project is made to regroupe all Hello world in programing languages
-Feel free to update it and make a Pull request.
-Every Time you add a new languages to the project, Please update the list below if you can
-to help our community
-
-## What is Hacktoberfest?
-A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
-
-[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+This project is made to regroup all Hello world in programming languages, feel free to update it and make a Pull request.
 
 ## Getting started
+
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 
@@ -35,7 +28,8 @@ git push origin branch-name
 
 * Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
 * Wait for your PR review and merge approval!
-* __Star this repository__ if you had fun!
+
+*__Star this repository if you had fun !!!__*
 
 
 
